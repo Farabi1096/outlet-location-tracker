@@ -78,11 +78,7 @@ When onboarding new distributors or evaluating existing ones:
 
 ## 🖼️ Screenshots
 
-| Map View with Route Lines | Filter Panel | Anomaly Detection |
-|:---:|:---:|:---:|
-| *Outlets connected by nearest-neighbor path* | *Cascading Area → Route filters* | *Invalid coordinates flagged* |
-
-> Replace the above with actual screenshots of your deployed application.
+![Location Tracker Screenshot](images/locationsnap.jpg)
 
 ---
 
